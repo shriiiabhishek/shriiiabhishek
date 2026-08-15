@@ -28,7 +28,6 @@
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,php" />
 </p>🛠️ Tools
-
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
 </p>---
