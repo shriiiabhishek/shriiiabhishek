@@ -11,7 +11,7 @@
 - 💻 Interested in Software Development, AI/ML & Data Science
  I love building projects and learning new technolo
 
----
+--- 
 💻 Tech Stack
 
 👨‍💻 Programming Languages
