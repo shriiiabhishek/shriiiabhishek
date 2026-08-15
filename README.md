@@ -12,7 +12,6 @@
  I love building projects and learning new technolo
 
 ---
-
 💻 Tech Stack
 
 👨‍💻 Programming Languages
